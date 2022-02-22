@@ -1,0 +1,28 @@
+
+
+.navbar{
+    background-color: #ffcc4d!important;
+}
+
+a {
+    text-decoration: none!important;
+}
+
+.carousel img{
+    height: 500px;
+    width: 800px;
+}
+
+.carousel p {
+    font-weight: bold;
+    background-color:rgba(50,50,50,.4);
+}
+
+.pie {
+    background-color: #ffcc4d!important;
+    color: black!important;
+    
+}
+.formularios {
+    background-color: #ffcc4d!important;
+}
